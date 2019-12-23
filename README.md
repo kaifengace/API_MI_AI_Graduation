@@ -88,13 +88,14 @@
     
 ## 需求列表与人工智能API加值
 
-需求列表
+##### 需求列表
 
 |  主题   |  用户案例   |  重要性   |  备注   |  api加值   |
 | --- | --- | --- | --- | --- |
 |  遗忘与回忆   |  用户A忘记了同学的姓名，不太记得同学的长相，想通过相册辅助回忆  |  核心功能   |  对人脸识别api的精确度要求高   |  百度人脸识别api   |
 |  联系与合作   |  用户B想了解身边有没有自己的校友，可以约见面交流，同时拓宽人脉   |  次核心功能   |  信息云储存   |  高德地图api   |
 |  重温大学生活   |  用户C想看看母校大学，通过VR重现大学校园   |  附加功能   |  非必要，难度大，技术不成熟   |  VR   |
+
 
 
 ## 使用到的API
@@ -105,13 +106,18 @@
 - 高德地图API
     - [静态地图](https://lbs.amap.com/api/webservice/guide/api/staticmaps)
 
-# PART2 原型
+# 原型
+### 一、产品架构
+![产品架构](https://github.com/kaifengace/graduation_album_app/raw/master/%E6%AF%95%E4%B8%9A%E6%9E%B6%E6%9E%84.PNG)
+
+### 二、产品流程
+![产品流程](https://github.com/kaifengace/graduation_album_app/raw/master/%E6%AF%95%E4%B8%9A%E6%B5%81%E7%A8%8B.PNG)
 
 ## 交互及界面设计
 ## 信息设计
 ## 原型文档
 
-# PART3 API产品使用关键AI或机器学习之API的输出入展示
+#  API产品使用关键AI或机器学习之API的输出入展示
 
 ## 使用水平 输入+输出
 ## 使用比较分析
