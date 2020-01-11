@@ -121,4 +121,5 @@
 #### :snail: 二、产品流程
 ![产品流程](https://github.com/kaifengace/graduation_album_app/raw/master/%E6%AF%95%E4%B8%9A%E6%B5%81%E7%A8%8B.PNG)
 
+#### 【ps:如若出现图片无法显示问题，请刷新数次，麻烦您了，谢谢】
 
