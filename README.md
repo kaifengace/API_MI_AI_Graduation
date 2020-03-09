@@ -92,7 +92,6 @@
 - 检测响应速度，与图片中人脸数量相关，人脸数量较多时响应时间会有些许延长。
 - 质量检测
 
-    ![质量检测](https://gitee.com/hukaif/graduation_album_app/raw/master/t1.PNG)
     
 ### :star: 需求列表与人工智能API加值
 
