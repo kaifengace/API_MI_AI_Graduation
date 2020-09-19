@@ -120,5 +120,17 @@
 #### :snail: 二、产品流程
 ![产品流程](https://github.com/kaifengace/graduation_album_app/raw/master/%E6%AF%95%E4%B8%9A%E6%B5%81%E7%A8%8B.PNG)
 
-#### 【ps:如若出现图片无法显示问题，请刷新数次，麻烦您了，谢谢】
+#### :exclamation: 
+PS:如若出现图片无法显示问题，请刷新数次
 
+问题：找不到 raw.githubusercontent.com 的服务器 IP 地址。
+解决方法：（在hosts文件中添加IP地址）
+
+在C:\Windows\System32\drivers\etc路径下找到hosts文件
+
+添加 以下内容并保存即可恢复
+
+`199.232.68.133 raw.githubusercontent.com`
+
+(地址可能失效，失效请更新)
+#####
